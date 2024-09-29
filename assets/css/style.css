@@ -1859,3 +1859,10 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+#success-message {
+  display: none;
+  color: green;
+  text-align: center;
+  margin-top: 20px;
+}
